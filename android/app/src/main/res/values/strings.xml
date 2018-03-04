@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Capacitor Plugin Demos</string>
+    <string name="title_activity_main">Capacitor Plugin Demos</string>
+    <string name="package_name">de.janpiotrowski.capacitor.plugindemos</string>
+    <string name="fileprovider_authority">de.janpiotrowski.capacitor.plugindemos.fileprovider</string>
+    <string name="custom_url_scheme">de.janpiotrowski.capacitor.plugindemos</string>
+</resources>

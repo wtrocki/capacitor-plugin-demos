@@ -1,0 +1,6 @@
+{
+  "appId": "de.janpiotrowski.capacitor.plugindemos",
+  "appName": "Capacitor Plugin Demos",
+  "bundledWebRuntime": true,
+  "webDir": "www"
+}
