@@ -70,6 +70,7 @@ window.customElements.define('capacitor-welcome', class extends HTMLElement {
         <a href="http://ionic-team.github.io/capacitor" target="_blank" class="button">Read more</a>
 
         <capacitor-plugin-device-demo></capacitor-plugin-device-demo>
+        <capacitor-plugin-camera-demo></capacitor-plugin-camera-demo>
       </main>
     </div>
     `
