@@ -10,8 +10,8 @@ window.customElements.define('capacitor-plugin-camera-demo', class extends HTMLE
     root.innerHTML = `
     <div>
         <h2>Capacitor.Plugins.Camera</h2>
-        <img id="photo" />
-        <button id="button">Take Photo</button>
+        <button id="button">Take Photo</button><br>
+        <img id="photo" style="max-width:100%; margin-top:15px;"/>
     </div>
     `
 
