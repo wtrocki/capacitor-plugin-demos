@@ -13,8 +13,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@capacitor/cli": "^1.0.0-alpha.6",
-    "@capacitor/core": "^1.0.0-alpha.6",
+    "@capacitor/cli": "^1.0.0-alpha.7",
+    "@capacitor/core": "^1.0.0-alpha.7",
     "cordova-plugin-network-information": "^2.0.1"
   }
 }
